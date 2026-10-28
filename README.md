@@ -1,15 +1,30 @@
 
 # Hi, I'm Zekolar 👋
 
-### Aspiring Software Developer
+### Software Developer in Progress
 
-I'm building practical software projects and improving my skills in software development.
+I'm a software development student focused on building practical projects, improving problem-solving skills, and writing clean, maintainable code.
 
-- 💻 Languages: Python, C#, HTML, CSS
-- 🛠️ Interests: Desktop Applications, Web Development, Automation
-- 📚 Currently learning and building real-world projects
-- 🎯 Goal: Write clean, maintainable code and build useful software
+## 🛠️ Technologies
+
+- **Languages:** Python, C#
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, Visual Studio, VS Code
+
+## 🚀 Current Focus
+
+- Building practical software applications
+- Improving software design and code quality
+- Learning through hands-on projects
+
+## 📌 Featured Projects
+
+Projects will be added here as they become ready for public use.
+
+## 📫 Connect
+
+- GitHub: [@zekolardev](https://github.com/zekolardev)
 
 ---
 
-*More projects and technical documentation coming soon.*
+*Learning, building, and improving one project at a time.*
